@@ -162,12 +162,14 @@ input, select, textarea {
 
 	a {
 
-		font-family: "Shrikhand", Helvetica, sans-serif;
+		font-family: 'Roboto Condensed', Helvetica, sans-serif;
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		
+		border-bottom-color: #e2752c;
+		border-bottom: solid 1px;
 		text-decoration: none;
 	}
 
